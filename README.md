@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm **Charish Pulido**
 
-I'm a **Computer Science graduate** and aspiring **Full-Stack Developer** based in **Davao City, Philippines**. I enjoy building practical software solutions, from desktop applications to modern web applications, while continuously learning new technologies.
+I'm a **Computer Science graduate** and an aspiring **Full-Stack Developer** based in **Davao City, Philippines**. I enjoy building practical software solutions, from desktop applications to modern web applications, while continuously learning new technologies.
 
 ### 🚀 About Me
 - 💻 Passionate about **Full-Stack Web Development** and **Software Engineering**
@@ -10,7 +10,8 @@ I'm a **Computer Science graduate** and aspiring **Full-Stack Developer** based 
 - 🌱 Always learning new technologies through personal projects and hands-on experience
 
 ## 🌐 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charishpulido04@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pulido-portf.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charishpulido04@gmail.com)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
