@@ -1,3 +1,5 @@
+##
+Hello! I am Charish Pulido, an aspiring developer based at Davao City.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charishpulido04@gmail.com) 
