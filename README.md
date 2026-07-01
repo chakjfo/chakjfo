@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm **Charish Pulido**
 
-I'm a **Computer Science graduate** and an aspiring **Full-Stack Developer** based in **Davao City, Philippines**. I enjoy building practical software solutions, from desktop applications to modern web applications, while continuously learning new technologies.
+I'm a **Computer Science student** and an aspiring **Full-Stack Developer** based in **Davao City, Philippines**. I enjoy building practical software solutions, from desktop applications to modern web applications, while continuously learning new technologies.
 
 ### 🚀 About Me
 - 💻 Passionate about **Full-Stack Web Development** and **Software Engineering**
